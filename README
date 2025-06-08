@@ -1,0 +1,2 @@
+A tiny utility to make it easier to compare file write times against
+boot times in shell scripts.
